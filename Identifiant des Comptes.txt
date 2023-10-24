@@ -1,0 +1,19 @@
+Compte médecin :  
+			- mail : test@test.fr
+			- mdp : Azerty@123456789
+
+Compte chef produit : 
+			- mail : chef@prod.fr
+			- mdp : Azerty@123456789
+
+Compte validateur : 
+			- mail : valid@valid.fr
+			- mdp : Azerty@123456789
+
+Compte modérateur : 
+			- mail : moderateur@moderateur.fr
+			-mdp : Azerty@123456789
+
+Compte admin : 
+			- mail : admin@admin.fr
+			-mdp : Azerty@123456789
